@@ -1,0 +1,143 @@
+/*****************************************TAGS***************************************/
+
+body
+{
+  padding: 0;
+  border: 0;
+  margin:0;
+  text-align: center;
+}
+ h1
+{
+    line-height: double;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    color: #e6f9ff;
+}
+h2
+{
+  font-size: 2rem;
+  color: #e6f9ff;
+  font-weight: normal;
+}
+a
+{
+color: #11999E;
+}
+h3
+{
+  color: #004d66;
+}
+p
+{
+font-size: 2rem;
+}
+
+/****************************************CLASSES***************************************/
+ .profile2
+{
+  border-radius: 50%;
+}
+.topContainer
+{
+  background-color:#0080ff;
+  display: block;
+  position: relative;
+  margin:0;
+}
+
+
+.middleContainer
+{
+
+  border: 5px solid gray;
+}
+.bottomContainermain
+{
+  position: relative;
+}
+
+.bottomContainer
+{
+
+  display: inline-block;
+  margin-right: 120px;
+  width: 200px;
+}
+.bottomContainer1
+{
+display: inline-block;
+position: relative;
+
+
+
+}
+.bottomContainer2
+{
+display: inline-block;
+position: absolute;
+margin-right: 110px;
+}
+.bir
+{
+  text-decoration: underline;
+}
+
+.footer-link
+{
+  display: inline-block;
+  font-size: 2em;
+  vertical-align: middle;
+  position: relative;
+  bottom: 20px;
+
+}
+.footer-link2
+{
+  display: inline-block;
+  font-size: 2rem;
+  vertical-align: middle;
+  position: relative;
+  margin-top:20px;
+
+
+}
+.email
+{
+  border: 0;
+  display: inline ;
+  background-color:aqua;
+  padding: 0;
+  margin: 0;
+}
+/***********************************ID**************************************************/
+/*
+ */#p
+{
+  font-family: 'Cinzel', serif;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+ #heading
+{
+background-color: #5D8BF4;
+}
+#cloud
+{
+  display:  block;
+  position: relative;
+  margin-left: 300px;
+}
+#cloud2
+{
+  display: block;
+  position: relative;
+  margin-left: 900px;
+}
+
+#in
+{
+  display: inline-block;
+
+}
