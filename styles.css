@@ -127,13 +127,13 @@ background-color: #5D8BF4;
 {
   display:  block;
   position: relative;
-  margin-left: 300px;
+  margin-left:30%;
 }
 #cloud2
 {
   display: block;
   position: relative;
-  margin-left: 900px;
+  margin-left: 70%;
 }
 
 #in
